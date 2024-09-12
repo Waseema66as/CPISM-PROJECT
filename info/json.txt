@@ -1,0 +1,6 @@
+ "start": "json-server --watch ./db/db.json"
+
+
+ http://localhost:3000/data
+ 
+ https://waseema66as.github.io/DB-JSON-CPISM-PROJECT-/db.json

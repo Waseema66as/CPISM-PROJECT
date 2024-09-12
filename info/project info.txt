@@ -1,0 +1,111 @@
+Index
+
+1.	Introduction
+2.	Objectives
+3.	Problem Statement
+4.	Hardware/ Software Requirements
+
+
+
+
+
+
+
+
+	
+ 
+
+
+Introduction
+
+
+The thirst for learning, upgrading technical skills and applying the concepts in real life environment at a fast pace is what the industry demands from IT professionals today. However busy work schedules, far-flung locations, unavailability of convenient time-slots pose as major barriers when it comes to applying the concepts into realism.  And hence the need to look out for alternative means of implementation in the form of laddered approach. 
+
+The above truly pose as constraints especially for our students too! With their busy schedules, it is indeed difficult for our students to keep up with the genuine and constant need for integrated application which can be seen live especially so in the field of IT education where technology can change on the spur of a moment. Well, technology does come to our rescue at such times!!
+
+Keeping the above in mind and in tune with our constant endeavour to use Technology in our training model, we at Aptech have thought of revolutionizing the way our students learn and implement the concepts using tools themselves by providing a live and synchronous eProject   learning environment!
+
+So what is this eProject?
+
+eProject is a step-by-step learning environment that closely simulates the classroom and Lab based learning environment into actual implementation. It is a project implementation at your fingertips!! An electronic, live juncture on the machine that allows you to 
+
+o	Practice step by step i.e. laddered approach.
+o	Build a larger more robust application.
+o	Usage of certain utilities in applications designed by user.
+o	Single program to unified code leading to a complete application.
+o	Learn implementation of concepts in a phased manner.
+o	Enhance skills and add value.
+o	Work on real life projects. 
+o	Give a real life scenario and help to create applications more complicated and useful.
+o	Mentoring through email support.
+
+
+The students at the centre are expected to complete this eProject and send complete project along with the documentation to eProjects Team
+
+
+Looking forward to a positive response from your end!!
+ 
+
+
+Objectives of the project
+
+
+The Objective of this program is to give a sample project to work on real life projects. These applications help you build a larger more robust application. 
+
+The objective is not to teach you HTML/JavaScript/Dreamweaver/HTML5 but to provide you with a real life scenario and help you create basic applications using the tools.
+
+You can revise the chapters before you start with the project. 
+
+This project is meant for students who have completed the module of HTML5. These programs should be done in the Lab sessions with assistance of the faculty if required.
+
+It is very essential that a student has a clear understanding of the subject. Students should go through the project and solve the assignments as per requirements given. 
+
+Kindly get back to eProjects Team in case of any doubts regarding the application or its objectives.
+
+
+
+
+ 
+
+
+Problem Statement
+
+The after-effects of the Covid-19 pandemic have compelled everyone to take their businesses online. People no longer prefer visiting a market or mall for shopping, rather they prefer searching or browsing online through the internet for shopping new arrivals & accessories. This also helps them save their time & effort. 
+
+The Online fashion shopping website project proposed here will ease out the process of shopping for the users by providing a customer-friendly experience. This system will connect the users & the fashion stylists. The users can view the stylists' profiles. The users can view the available stylists and can see their catalogues and various collections. Based on the requirements received from the user, the stylist will recommend products and accessories that will suit the user's interest & personality. Both the users & stylists can access the system by registering themselves on the website. 
+
+
+Requirement Specification:
+
+This project is completely based on current fashion trend and styling. This website will help in finding client with their customized product according to their style and personality. These days getting a product is lot more easily than styling it and presenting to the outer world in trendy way so, our website should bring all such conditions under one roof and brings the best out of people. This will be a huge benefit to all the busy personalities out there in their styling. This system comprises email/contact facility so that users can get in touch with Stylist so that user can describe exact requirements of the attire the user need
+
+The Web site is to be created based on the following requirements.
+
+1)	The Home Page should be created making use of Sections with a suitable logo, the header section can be added which will show images of stylists/collections.
+2)	The site must contain the links to navigate through any category for the information.
+3)	The site should display a menu which will contain the options for brief introduction about the various stylist available, contact details of the shop and any other information if required.
+4)	The information should be categorized according to the stylist names  as well as , as per their exclusive collections like summer collection…wedding collection etc. if a User wants to see only “winter collection”  or any other then he/she can click on a Link/button/menu etc and can see only that  collection. When a user selects any particular stylist/collection, a list for that respective will be displayed
+5)	A brief summary of features and other details like size/cost/fabric type etc  should be displayed on the Web Page along with the picture but detailed Features should be stored in Individual Word documents which can be downloaded or viewed by the User who wishes to see the same.
+6)	The user should also be able to compare the various products of different as well as same stylist.
+7)	There should be a “Contact Us” page which will have the Address of the stylist which should be displayed using GeoLocation API (eg. GoogleMaps) and the email address which when clicked will invoke the local mail client from where they can send an email.
+
+
+ 
+
+
+Hardware/ Software Requirements
+
+
+Hardware 
+•	A minimum computer system that will help you access all the tools in the courses is a Pentium 166 or better
+•	64 Megabytes of RAM or better
+
+
+Software [Either or Combination as per Course/Sem]
+•	Notepad/HTML editor/CoffeeCup
+•	Angular / Angular JS / React / BootStrap
+•	Dreamweaver / Figma
+•	MS IE / Chrome / FireFox / Netscape /MS Edge
+
+
+

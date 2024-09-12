@@ -1,0 +1,2079 @@
+{
+  "data": [
+    {
+      "FashionTrends": [
+        {
+          "name": "Seasonal Trends",
+          "id": 1,
+          "description": "Trends based on seasonal changes and weather conditions.",
+          "img": "images/product-03.jpg",
+          "sub_categories": [
+            {
+              "name": "Spring/Summer",
+              "id": 11,
+              "description": "Trends for the Spring and Summer seasons.",
+              "img": "images/product-03.jpg",
+              "data": [
+                {
+                  "name": "Spring Floral Dress",
+                  "id": 111,
+                  "img": "images/product-04.jpg",
+                  "product_description": "A light and airy floral dress perfect for spring outings.",
+                  "price": "49.99",
+                  "product_specifications": {
+                    "material": "100% Cotton",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Machine wash cold, tumble dry low"
+                  },
+                  "color_options": [
+                    "White",
+                    "Pink",
+                    "Yellow"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Summer Maxi Dress",
+                  "id": 112,
+                  "img": "images/product-03.jpg",
+                  "product_description": "A flowy maxi dress for summer evenings.",
+                  "price": "59.99",
+                  "product_specifications": {
+                    "material": "Viscose",
+                    "sizes": [
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Hand wash only"
+                  },
+                  "color_options": [
+                    "Blue",
+                    "Green",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Beach Sandals",
+                  "id": 113,
+                  "img": "images/product_1.png",
+                  "product_description": "Comfortable sandals perfect for beach wear.",
+                  "price": "19.99",
+                  "product_specifications": {
+                    "material": "Rubber",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Wipe clean"
+                  },
+                  "color_options": [
+                    "Yellow",
+                    "Red",
+                    "Blue"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Summer Hat",
+                  "id": 114,
+                  "img": "images/product-06.jpg",
+                  "product_description": "A stylish wide-brimmed hat to keep you cool.",
+                  "price": "24.99",
+                  "product_specifications": {
+                    "material": "Straw",
+                    "sizes": [
+                      "One size fits all"
+                    ],
+                    "care_instructions": "Spot clean"
+                  },
+                  "color_options": [
+                    "Natural",
+                    "Brown"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Casual Summer T-shirt",
+                  "id": 115,
+                  "img": "images/product-07.jpg",
+                  "product_description": "Breathable cotton T-shirt for casual outings.",
+                  "price": "15.99",
+                  "product_specifications": {
+                    "material": "100% Cotton",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Machine wash warm"
+                  },
+                  "color_options": [
+                    "White",
+                    "Gray",
+                    "Blue"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Denim Shorts",
+                  "id": 116,
+                  "img": "images/product_3.png",
+                  "product_description": "Classic denim shorts for a relaxed look.",
+                  "price": "34.99",
+                  "product_specifications": {
+                    "material": "Denim",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Machine wash cold"
+                  },
+                  "color_options": [
+                    "Blue",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Summer Tote Bag",
+                  "id": 117,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Spacious tote bag for all your summer essentials.",
+                  "price": "29.99",
+                  "product_specifications": {
+                    "material": "Canvas",
+                    "sizes": [
+                      "One size"
+                    ],
+                    "care_instructions": "Spot clean"
+                  },
+                  "color_options": [
+                    "Beige",
+                    "Navy",
+                    "Coral"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Lightweight Cardigan",
+                  "id": 118,
+                  "img": "images/product-09.jpg",
+                  "product_description": "A lightweight cardigan for cool summer nights.",
+                  "price": "39.99",
+                  "product_specifications": {
+                    "material": "Cotton Blend",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Machine wash cold"
+                  },
+                  "color_options": [
+                    "Gray",
+                    "White"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Floral Print Scarf",
+                  "id": 119,
+                  "img": "images/product-03.jpg",
+                  "product_description": "A colorful floral print scarf to accessorize.",
+                  "price": "14.99",
+                  "product_specifications": {
+                    "material": "Polyester",
+                    "sizes": [
+                      "One size"
+                    ],
+                    "care_instructions": "Hand wash"
+                  },
+                  "color_options": [
+                    "Red",
+                    "Blue",
+                    "Green"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Summer Espadrilles",
+                  "id": 120,
+                  "img": "images/product_4.png",
+                  "product_description": "Comfortable and chic espadrilles for summer.",
+                  "price": "39.99",
+                  "product_specifications": {
+                    "material": "Canvas",
+                    "sizes": [
+                      "7",
+                      "8",
+                      "9",
+                      "10"
+                    ],
+                    "care_instructions": "Spot clean"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Beige",
+                    "Navy"
+                  ],
+                  "add_to_cart": false
+                }
+              ]
+            },
+            {
+              "name": "Fall/Winter",
+              "id": 12,
+              "description": "Trends for the Fall and Winter seasons.",
+              "img": "images/product-11.jpg",
+              "data": [
+                {
+                  "name": "Winter Wool Coat",
+                  "id": 121,
+                  "img": "images/product-03.jpg",
+                  "product_description": "A warm and stylish wool coat for winter.",
+                  "price": "120.00",
+                  "product_specifications": {
+                    "material": "Wool Blend",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL",
+                      "XXL"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Gray",
+                    "Black",
+                    "Navy"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Chunky Knit Sweater",
+                  "id": 122,
+                  "img": "images/product_7.png",
+                  "product_description": "A cozy chunky knit sweater for fall.",
+                  "price": "65.00",
+                  "product_specifications": {
+                    "material": "100% Acrylic",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Machine wash warm, lay flat to dry"
+                  },
+                  "color_options": [
+                    "Cream",
+                    "Burgundy",
+                    "Olive"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Leather Boots",
+                  "id": 123,
+                  "img": "images/product-12.jpg",
+                  "product_description": "Durable leather boots for the winter season.",
+                  "price": "89.99",
+                  "product_specifications": {
+                    "material": "Leather",
+                    "sizes": [
+                      "8",
+                      "9",
+                      "10",
+                      "11"
+                    ],
+                    "care_instructions": "Wipe clean with leather cleaner"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Brown"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Winter Beanie",
+                  "id": 124,
+                  "img": "images/product-14.jpg",
+                  "product_description": "A soft and warm beanie for cold weather.",
+                  "price": "14.99",
+                  "product_specifications": {
+                    "material": "Wool",
+                    "sizes": [
+                      "One size fits all"
+                    ],
+                    "care_instructions": "Hand wash"
+                  },
+                  "color_options": [
+                    "Gray",
+                    "Navy",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Puffer Jacket",
+                  "id": 125,
+                  "img": "images/product-15.jpg",
+                  "product_description": "A lightweight yet warm puffer jacket.",
+                  "price": "99.99",
+                  "product_specifications": {
+                    "material": "Nylon",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Machine wash cold, tumble dry low"
+                  },
+                  "color_options": [
+                    "Red",
+                    "Black",
+                    "Olive"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Thermal Leggings",
+                  "id": 126,
+                  "img": "images/product_1.png",
+                  "product_description": "Thermal leggings to keep you warm.",
+                  "price": "29.99",
+                  "product_specifications": {
+                    "material": "Polyester/Spandex",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Machine wash cold"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Gray"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Knitted Scarf",
+                  "id": 127,
+                  "img": "images/product_2.png",
+                  "product_description": "A knitted scarf to keep you warm and stylish.",
+                  "price": "19.99",
+                  "product_specifications": {
+                    "material": "Wool Blend",
+                    "sizes": [
+                      "One size"
+                    ],
+                    "care_instructions": "Hand wash"
+                  },
+                  "color_options": [
+                    "Maroon",
+                    "Navy"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Fleece Lined Gloves",
+                  "id": 128,
+                  "img": "images/product_5.png",
+                  "product_description": "Warm gloves with a fleece lining.",
+                  "price": "24.99",
+                  "product_specifications": {
+                    "material": "Fleece",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Hand wash"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Gray"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Winter Socks",
+                  "id": 129,
+                  "img": "images/product-04.jpg",
+                  "product_description": "Cozy socks to keep your feet warm.",
+                  "price": "9.99",
+                  "product_specifications": {
+                    "material": "Wool",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Machine wash cold"
+                  },
+                  "color_options": [
+                    "White",
+                    "Gray",
+                    "Blue"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Faux Fur Vest",
+                  "id": 130,
+                  "img": "images/product_1.png",
+                  "product_description": "A stylish faux fur vest for winter fashion.",
+                  "price": "45.00",
+                  "product_specifications": {
+                    "material": "Faux Fur",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "White",
+                    "Brown",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Runway Trends",
+          "id": 2,
+          "description": "Trends showcased on high fashion runways.",
+          "img": "images/product-03.jpg",
+          "sub_categories": [
+            {
+              "name": "Haute Couture",
+              "id": 21,
+              "description": "Exclusive and high-end runway fashion.",
+              "img": "images/product-04.jpg",
+              "data": [
+                {
+                  "name": "Haute Couture Gown",
+                  "id": 211,
+                  "img": "images/product-06.jpg",
+                  "product_description": "An exclusive haute couture gown for special occasions.",
+                  "price": "5,000.00",
+                  "product_specifications": {
+                    "material": "Silk",
+                    "sizes": [
+                      "Custom fit"
+                    ],
+                    "care_instructions": "Professional cleaning required"
+                  },
+                  "color_options": [
+                    "Red",
+                    "Gold"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "High Fashion Suit",
+                  "id": 212,
+                  "img": "images/product-03.jpg",
+                  "product_description": "A designer suit perfect for the runway look.",
+                  "price": "2,200.00",
+                  "product_specifications": {
+                    "material": "Wool Blend",
+                    "sizes": [
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Navy"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Designer Evening Gown",
+                  "id": 213,
+                  "img": "images/product-07.jpg",
+                  "product_description": "A stunning gown designed for elegant evenings.",
+                  "price": "4,500.00",
+                  "product_specifications": {
+                    "material": "Silk",
+                    "sizes": [
+                      "Custom fit"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Silver"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Luxury Feather Dress",
+                  "id": 214,
+                  "img": "images/product_3.png",
+                  "product_description": "A unique dress adorned with feathers for a dramatic effect.",
+                  "price": "3,500.00",
+                  "product_specifications": {
+                    "material": "Feathers and Silk",
+                    "sizes": [
+                      "Custom fit"
+                    ],
+                    "care_instructions": "Specialist clean only"
+                  },
+                  "color_options": [
+                    "White",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Embellished Cocktail Dress",
+                  "id": 215,
+                  "img": "images/product-09.jpg",
+                  "product_description": "A cocktail dress with intricate embellishments.",
+                  "price": "2,800.00",
+                  "product_specifications": {
+                    "material": "Satin and Beads",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Gold",
+                    "Silver"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Velvet Evening Dress",
+                  "id": 216,
+                  "img": "images/product_6.png",
+                  "product_description": "A luxurious velvet dress for evening wear.",
+                  "price": "3,000.00",
+                  "product_specifications": {
+                    "material": "Velvet",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Navy",
+                    "Emerald"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Silk Jumpsuit",
+                  "id": 217,
+                  "img": "images/product-11.jpg",
+                  "product_description": "A modern silk jumpsuit for high-end fashion.",
+                  "price": "1,900.00",
+                  "product_specifications": {
+                    "material": "Silk",
+                    "sizes": [
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Red",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Runway Statement Coat",
+                  "id": 218,
+                  "img": "images/product-12.jpg",
+                  "product_description": "A bold statement coat to stand out.",
+                  "price": "4,000.00",
+                  "product_specifications": {
+                    "material": "Wool and Embroidery",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Gray"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Crystal Embellished Heels",
+                  "id": 219,
+                  "img": "images/product_7.png",
+                  "product_description": "High heels adorned with crystals for a sparkling look.",
+                  "price": "1,500.00",
+                  "product_specifications": {
+                    "material": "Leather and Crystals",
+                    "sizes": [
+                      "7",
+                      "8",
+                      "9"
+                    ],
+                    "care_instructions": "Wipe clean"
+                  },
+                  "color_options": [
+                    "Silver",
+                    "Gold"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Designer Clutch Bag",
+                  "id": 220,
+                  "img": "images/product-03.jpg",
+                  "product_description": "A small clutch bag for evening events.",
+                  "price": "900.00",
+                  "product_specifications": {
+                    "material": "Leather",
+                    "sizes": [
+                      "One size"
+                    ],
+                    "care_instructions": "Wipe clean"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Red"
+                  ],
+                  "add_to_cart": false
+                }
+              ]
+            },
+            {
+              "name": "High Fashion",
+              "id": 22,
+              "description": "Trends and collections from high fashion designers.",
+              "img": "images/product_1.png",
+              "data": [
+                {
+                  "name": "Fashion Forward Jacket",
+                  "id": 221,
+                  "img": "images/product-03.jpg",
+                  "product_description": "A trendy jacket from top fashion designers.",
+                  "price": "450.00",
+                  "product_specifications": {
+                    "material": "Leather",
+                    "sizes": [
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Brown"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Avant-Garde Dress",
+                  "id": 222,
+                  "img": "images/product-14.jpg",
+                  "product_description": "An avant-garde dress for a unique look.",
+                  "price": "1,200.00",
+                  "product_specifications": {
+                    "material": "Silk",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "White",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Designer Pantsuit",
+                  "id": 223,
+                  "img": "images/product-15.jpg",
+                  "product_description": "A pantsuit that combines elegance and style.",
+                  "price": "1,500.00",
+                  "product_specifications": {
+                    "material": "Wool Blend",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Gray",
+                    "Navy"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Embroidered Skirt",
+                  "id": 224,
+                  "img": "images/product_1.png",
+                  "product_description": "A beautifully embroidered skirt for a chic look.",
+                  "price": "850.00",
+                  "product_specifications": {
+                    "material": "Cotton",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Red",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Luxe Silk Blouse",
+                  "id": 225,
+                  "img": "images/product_7.png",
+                  "product_description": "A luxurious silk blouse for elegant wear.",
+                  "price": "600.00",
+                  "product_specifications": {
+                    "material": "Silk",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "White",
+                    "Gold"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Fashion-Forward Trench Coat",
+                  "id": 226,
+                  "img": "images/product-12.jpg",
+                  "product_description": "A trendy trench coat for fashion enthusiasts.",
+                  "price": "900.00",
+                  "product_specifications": {
+                    "material": "Cotton Blend",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Beige",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Statement Necklace",
+                  "id": 227,
+                  "img": "images/product-11.jpg",
+                  "product_description": "A bold necklace to complement any outfit.",
+                  "price": "250.00",
+                  "product_specifications": {
+                    "material": "Metal",
+                    "sizes": [
+                      "One size"
+                    ],
+                    "care_instructions": "Wipe clean"
+                  },
+                  "color_options": [
+                    "Gold",
+                    "Silver"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Runway Ready Blazer",
+                  "id": 228,
+                  "img": "images/product_1.png",
+                  "product_description": "A blazer designed for the modern runway look.",
+                  "price": "700.00",
+                  "product_specifications": {
+                    "material": "Wool Blend",
+                    "sizes": [
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Gray"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "High-Waisted Trousers",
+                  "id": 229,
+                  "img": "images/product-14.jpg",
+                  "product_description": "Elegant high-waisted trousers for a refined look.",
+                  "price": "650.00",
+                  "product_specifications": {
+                    "material": "Wool",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ],
+                    "care_instructions": "Dry clean only"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Navy"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Luxury Sunglasses",
+                  "id": 230,
+                  "img": "images/product_6.png",
+                  "product_description": "High-end sunglasses for a fashionable statement.",
+                  "price": "500.00",
+                  "product_specifications": {
+                    "material": "Metal/Plastic",
+                    "sizes": [
+                      "One size"
+                    ],
+                    "care_instructions": "Wipe clean"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Brown"
+                  ],
+                  "add_to_cart": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "TargetDemographics": [
+        {
+          "name": "Teens",
+          "id": 1,
+          "description": "Products tailored for teenagers, focusing on style and trends.",
+          "img": "images/product-09.jpg",
+          "sub_categories": [
+            {
+              "name": "Clothing",
+              "id": 11,
+              "description": "Trendy clothing items for teenagers.",
+              "img": "images/product-09.jpg",
+              "data": [
+                {
+                  "name": "Graphic Tee",
+                  "id": 111,
+                  "img": "images/product-09.jpg",
+                  "product_description": "Cool graphic tee with vibrant prints.",
+                  "price": "25.00",
+                  "product_specifications": {
+                    "material": "100% Cotton",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "Black",
+                    "White",
+                    "Red"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Denim Jacket",
+                  "id": 112,
+                  "img": "images/product_3.png",
+                  "product_description": "Classic denim jacket with a modern fit.",
+                  "price": "60.00",
+                  "product_specifications": {
+                    "material": "Denim",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "Blue",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Sneakers",
+                  "id": 113,
+                  "img": "images/product-07.jpg",
+                  "product_description": "Stylish sneakers for everyday wear.",
+                  "price": "80.00",
+                  "product_specifications": {
+                    "material": "Synthetic",
+                    "sizes": [
+                      "6",
+                      "7",
+                      "8",
+                      "9",
+                      "10"
+                    ]
+                  },
+                  "color_options": [
+                    "White",
+                    "Black",
+                    "Gray"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Hoodie",
+                  "id": 114,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Comfortable hoodie with a cozy feel.",
+                  "price": "50.00",
+                  "product_specifications": {
+                    "material": "Fleece",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "Gray",
+                    "Navy"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Jogger Pants",
+                  "id": 115,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Casual jogger pants with a relaxed fit.",
+                  "price": "45.00",
+                  "product_specifications": {
+                    "material": "Cotton Blend",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "Black",
+                    "Charcoal"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Beanie",
+                  "id": 116,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Warm beanie for chilly days.",
+                  "price": "15.00",
+                  "product_specifications": {
+                    "material": "Acrylic",
+                    "sizes": [
+                      "One Size"
+                    ]
+                  },
+                  "color_options": [
+                    "Black",
+                    "Red",
+                    "Gray"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Backpack",
+                  "id": 117,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Stylish backpack with plenty of storage.",
+                  "price": "55.00",
+                  "product_specifications": {
+                    "material": "Polyester",
+                    "dimensions": "18x12x6 inches"
+                  },
+                  "color_options": [
+                    "Blue",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Oversized Tee",
+                  "id": 118,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Trendy oversized tee for a relaxed look.",
+                  "price": "30.00",
+                  "product_specifications": {
+                    "material": "100% Cotton",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ]
+                  },
+                  "color_options": [
+                    "White",
+                    "Pink"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Track Pants",
+                  "id": 119,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Comfortable track pants for sports and leisure.",
+                  "price": "40.00",
+                  "product_specifications": {
+                    "material": "Polyester",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "Black",
+                    "Navy"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Crop Top",
+                  "id": 120,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Fashionable crop top for a trendy look.",
+                  "price": "28.00",
+                  "product_specifications": {
+                    "material": "Cotton Blend",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ]
+                  },
+                  "color_options": [
+                    "White",
+                    "Red"
+                  ],
+                  "add_to_cart": false
+                }
+              ]
+            },
+            {
+              "name": "Accessories",
+              "id": 12,
+              "description": "Cool accessories to complete your look.",
+              "img": "images/product-03.jpg",
+              "data": [
+                {
+                  "name": "Sunglasses",
+                  "id": 121,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Stylish sunglasses with UV protection.",
+                  "price": "20.00",
+                  "product_specifications": {
+                    "material": "Plastic",
+                    "features": "UV Protection"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Brown"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Watch",
+                  "id": 122,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Trendy watch with a sleek design.",
+                  "price": "60.00",
+                  "product_specifications": {
+                    "material": "Stainless Steel",
+                    "features": "Quartz movement"
+                  },
+                  "color_options": [
+                    "Silver",
+                    "Gold"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Bracelet",
+                  "id": 123,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Fashionable bracelet to add a touch of style.",
+                  "price": "15.00",
+                  "product_specifications": {
+                    "material": "Leather",
+                    "features": "Adjustable size"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Brown"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Necklace",
+                  "id": 124,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Elegant necklace for any occasion.",
+                  "price": "25.00",
+                  "product_specifications": {
+                    "material": "Silver",
+                    "features": "Adjustable length"
+                  },
+                  "color_options": [
+                    "Silver",
+                    "Gold"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Hat",
+                  "id": 125,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Cool hat to protect from the sun.",
+                  "price": "18.00",
+                  "product_specifications": {
+                    "material": "Cotton",
+                    "sizes": [
+                      "One Size"
+                    ]
+                  },
+                  "color_options": [
+                    "Black",
+                    "Gray"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Scarf",
+                  "id": 126,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Warm scarf for chilly weather.",
+                  "price": "22.00",
+                  "product_specifications": {
+                    "material": "Wool Blend",
+                    "dimensions": "60x10 inches"
+                  },
+                  "color_options": [
+                    "Red",
+                    "Blue"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Belt",
+                  "id": 127,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Stylish belt to complete any outfit.",
+                  "price": "25.00",
+                  "product_specifications": {
+                    "material": "Leather",
+                    "sizes": [
+                      "30-34",
+                      "36-40"
+                    ]
+                  },
+                  "color_options": [
+                    "Black",
+                    "Brown"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Earrings",
+                  "id": 128,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Elegant earrings to enhance your look.",
+                  "price": "30.00",
+                  "product_specifications": {
+                    "material": "Gold",
+                    "features": "Hypoallergenic"
+                  },
+                  "color_options": [
+                    "Gold",
+                    "Silver"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Phone Case",
+                  "id": 129,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Durable phone case with trendy design.",
+                  "price": "12.00",
+                  "product_specifications": {
+                    "material": "Silicone",
+                    "features": "Shockproof"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Pink"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Backpack Keychain",
+                  "id": 130,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Cute keychain shaped like a mini backpack.",
+                  "price": "8.00",
+                  "product_specifications": {
+                    "material": "Plastic",
+                    "features": "Key ring included"
+                  },
+                  "color_options": [
+                    "Blue",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Adults",
+          "id": 2,
+          "description": "Products designed for adults, focusing on functionality and style.",
+          "img": "images/product-03.jpg",
+          "sub_categories": [
+            {
+              "name": "Clothing",
+              "id": 21,
+              "description": "Versatile clothing options for adults.",
+              "img": "images/product-03.jpg",
+              "data": [
+                {
+                  "name": "Button-Down Shirt",
+                  "id": 211,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Classic button-down shirt for professional or casual wear.",
+                  "price": "55.00",
+                  "product_specifications": {
+                    "material": "Cotton",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "White",
+                    "Blue",
+                    "Gray"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Chinos",
+                  "id": 212,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Comfortable chinos for a polished look.",
+                  "price": "60.00",
+                  "product_specifications": {
+                    "material": "Cotton Blend",
+                    "sizes": [
+                      "30",
+                      "32",
+                      "34",
+                      "36"
+                    ]
+                  },
+                  "color_options": [
+                    "Beige",
+                    "Navy"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Blazer",
+                  "id": 213,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Elegant blazer for formal occasions.",
+                  "price": "120.00",
+                  "product_specifications": {
+                    "material": "Wool Blend",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "Black",
+                    "Navy"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Polo Shirt",
+                  "id": 214,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Casual polo shirt for everyday wear.",
+                  "price": "35.00",
+                  "product_specifications": {
+                    "material": "Pima Cotton",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "White",
+                    "Black",
+                    "Red"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Cardigan",
+                  "id": 215,
+                  "img": "images/product-06.jpg",
+                  "product_description": "Cozy cardigan for layering.",
+                  "price": "70.00",
+                  "product_specifications": {
+                    "material": "Wool Blend",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "Gray",
+                    "Charcoal"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Dress Shoes",
+                  "id": 216,
+                  "img": "images/product_1.png",
+                  "product_description": "Sophisticated dress shoes for formal events.",
+                  "price": "110.00",
+                  "product_specifications": {
+                    "material": "Leather",
+                    "sizes": [
+                      "8",
+                      "9",
+                      "10",
+                      "11"
+                    ]
+                  },
+                  "color_options": [
+                    "Black",
+                    "Brown"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Sweater",
+                  "id": 217,
+                  "img": "images/product-04.jpg",
+                  "product_description": "Warm sweater for cold weather.",
+                  "price": "65.00",
+                  "product_specifications": {
+                    "material": "Cashmere",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "Navy",
+                    "Beige"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Jeans",
+                  "id": 218,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Classic jeans with a modern fit.",
+                  "price": "50.00",
+                  "product_specifications": {
+                    "material": "Denim",
+                    "sizes": [
+                      "30",
+                      "32",
+                      "34",
+                      "36"
+                    ]
+                  },
+                  "color_options": [
+                    "Blue",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Trench Coat",
+                  "id": 219,
+                  "img": "images/product_2.png",
+                  "product_description": "Stylish trench coat for a sophisticated look.",
+                  "price": "150.00",
+                  "product_specifications": {
+                    "material": "Waterproof Fabric",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "Beige",
+                    "Black"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "V-Neck T-Shirt",
+                  "id": 220,
+                  "img": "images/product_1.png",
+                  "product_description": "Comfortable V-neck t-shirt for casual wear.",
+                  "price": "28.00",
+                  "product_specifications": {
+                    "material": "Cotton",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                    ]
+                  },
+                  "color_options": [
+                    "White",
+                    "Gray"
+                  ],
+                  "add_to_cart": false
+                }
+              ]
+            },
+            {
+              "name": "Accessories",
+              "id": 22,
+              "description": "Elegant accessories for adults.",
+              "img": "images/product-15.jpg",
+              "data": [
+                {
+                  "name": "Leather Wallet",
+                  "id": 221,
+                  "img": "images/product-14.jpg",
+                  "product_description": "High-quality leather wallet with multiple compartments.",
+                  "price": "45.00",
+                  "product_specifications": {
+                    "material": "Genuine Leather",
+                    "features": "Multiple card slots"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Brown"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Sunglasses",
+                  "id": 222,
+                  "img": "images/product_7.png",
+                  "product_description": "Stylish sunglasses with polarized lenses.",
+                  "price": "70.00",
+                  "product_specifications": {
+                    "material": "Metal",
+                    "features": "Polarized lenses"
+                  },
+                  "color_options": [
+                    "Gold",
+                    "Silver"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Leather Belt",
+                  "id": 223,
+                  "img": "images/product-12.jpg",
+                  "product_description": "Classic leather belt with a sturdy buckle.",
+                  "price": "35.00",
+                  "product_specifications": {
+                    "material": "Genuine Leather",
+                    "sizes": [
+                      "30-34",
+                      "36-40"
+                    ]
+                  },
+                  "color_options": [
+                    "Black",
+                    "Brown"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Tie",
+                  "id": 224,
+                  "img": "images/product-11.jpg",
+                  "product_description": "Elegant tie for formal occasions.",
+                  "price": "40.00",
+                  "product_specifications": {
+                    "material": "Silk",
+                    "features": "Adjustable length"
+                  },
+                  "color_options": [
+                    "Navy",
+                    "Gray"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Watch",
+                  "id": 225,
+                  "img": "images/product_6.png",
+                  "product_description": "Sophisticated watch with chronograph features.",
+                  "price": "200.00",
+                  "product_specifications": {
+                    "material": "Stainless Steel",
+                    "features": "Chronograph, water-resistant"
+                  },
+                  "color_options": [
+                    "Silver",
+                    "Gold"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Scarf",
+                  "id": 226,
+                  "img": "images/product-09.jpg",
+                  "product_description": "Warm and stylish scarf for cold days.",
+                  "price": "50.00",
+                  "product_specifications": {
+                    "material": "Cashmere",
+                    "dimensions": "70x12 inches"
+                  },
+                  "color_options": [
+                    "Charcoal",
+                    "Burgundy"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Gloves",
+                  "id": 227,
+                  "img": "images/product_3.png",
+                  "product_description": "Warm gloves for winter.",
+                  "price": "30.00",
+                  "product_specifications": {
+                    "material": "Wool Blend",
+                    "sizes": [
+                      "S",
+                      "M",
+                      "L"
+                    ]
+                  },
+                  "color_options": [
+                    "Black",
+                    "Gray"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Cufflinks",
+                  "id": 228,
+                  "img": "images/product-07.jpg",
+                  "product_description": "Elegant cufflinks for formal shirts.",
+                  "price": "60.00",
+                  "product_specifications": {
+                    "material": "Silver",
+                    "features": "Elegant design"
+                  },
+                  "color_options": [
+                    "Silver",
+                    "Gold"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Briefcase",
+                  "id": 229,
+                  "img": "images/product-06.jpg",
+                  "product_description": "Professional briefcase for work.",
+                  "price": "150.00",
+                  "product_specifications": {
+                    "material": "Leather",
+                    "dimensions": "16x12x4 inches"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Brown"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Umbrella",
+                  "id": 230,
+                  "img": "images/product_1.png",
+                  "product_description": "Durable umbrella for rainy days.",
+                  "price": "25.00",
+                  "product_specifications": {
+                    "material": "Nylon",
+                    "features": "Wind-resistant"
+                  },
+                  "color_options": [
+                    "Black",
+                    "Navy"
+                  ],
+                  "add_to_cart": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "BrandCategories": [
+        {
+          "name": "Premium Brands",
+          "id": 1,
+          "description": "High-end brands known for quality and luxury.",
+          "img": "images/product-09.jpg",
+          "sub_categories": [
+            {
+              "name": "Fashion",
+              "id": 11,
+              "description": "Luxury fashion brands.",
+              "img": "images/product-04.jpg",
+              "data": [
+                {
+                  "name": "Gucci",
+                  "id": 111,
+                  "img": "images/product-09.jpg",
+                  "product_description": "High-end luxury fashion brand.",
+                  "price": "500 - 5000",
+                  "product_specifications": {
+                    "material": "Leather, Fabric",
+                    "features": "Designer collections"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Prada",
+                  "id": 112,
+                  "img": "images/product_5.png",
+                  "product_description": "Luxury brand known for its stylish and sophisticated designs.",
+                  "price": "400 - 4000",
+                  "product_specifications": {
+                    "material": "Leather, Silk",
+                    "features": "Exclusive collections"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Louis Vuitton",
+                  "id": 113,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Iconic luxury brand offering timeless fashion.",
+                  "price": "600 - 6000",
+                  "product_specifications": {
+                    "material": "Canvas, Leather",
+                    "features": "Classic designs"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Chanel",
+                  "id": 114,
+                  "img": "images/product-14.jpg",
+                  "product_description": "Prestigious brand known for its elegance and style.",
+                  "price": "800 - 8000",
+                  "product_specifications": {
+                    "material": "Leather, Tweed",
+                    "features": "High-fashion items"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Burberry",
+                  "id": 115,
+                  "img": "images/product_2.png",
+                  "product_description": "Luxury brand known for its distinctive trench coats.",
+                  "price": "700 - 7000",
+                  "product_specifications": {
+                    "material": "Cotton, Wool",
+                    "features": "British heritage"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Hermès",
+                  "id": 116,
+                  "img": "images/product_1.png",
+                  "product_description": "Exclusive luxury brand with a rich history.",
+                  "price": "1000 - 10000",
+                  "product_specifications": {
+                    "material": "Leather, Silk",
+                    "features": "High craftsmanship"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Givenchy",
+                  "id": 117,
+                  "img": "images/product-15.jpg",
+                  "product_description": "Luxury fashion house known for its modern aesthetics.",
+                  "price": "500 - 5000",
+                  "product_specifications": {
+                    "material": "Leather, Fabric",
+                    "features": "Contemporary designs"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Balenciaga",
+                  "id": 118,
+                  "img": "images/product-14.jpg",
+                  "product_description": "Renowned for its avant-garde fashion and accessories.",
+                  "price": "600 - 6000",
+                  "product_specifications": {
+                    "material": "Leather, Nylon",
+                    "features": "Innovative designs"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Yves Saint Laurent",
+                  "id": 119,
+                  "img": "images/product_7.png",
+                  "product_description": "Iconic brand known for its elegance and luxury.",
+                  "price": "700 - 7000",
+                  "product_specifications": {
+                    "material": "Leather, Silk",
+                    "features": "Classic luxury"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Dior",
+                  "id": 120,
+                  "img": "images/product_7.png",
+                  "product_description": "Prestigious brand offering haute couture and luxury goods.",
+                  "price": "800 - 8000",
+                  "product_specifications": {
+                    "material": "Leather, Satin",
+                    "features": "Luxury craftsmanship"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Affordable Brands",
+          "id": 2,
+          "description": "Brands that offer quality products at more accessible prices.",
+          "img": "images/product-11.jpg",
+          "sub_categories": [
+            {
+              "name": "Fashion",
+              "id": 21,
+              "description": "Stylish fashion brands at affordable prices.",
+              "img": "images/product-03.jpg",
+              "data": [
+                {
+                  "name": "H&M",
+                  "id": 211,
+                  "img": "images/product_6.png",
+                  "product_description": "Popular brand known for its fashionable and budget-friendly clothing.",
+                  "price": "20 - 100",
+                  "product_specifications": {
+                    "material": "Cotton, Polyester",
+                    "features": "Trendy designs"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Zara",
+                  "id": 212,
+                  "img": "images/product-09.jpg",
+                  "product_description": "Brand known for its stylish and contemporary fashion.",
+                  "price": "30 - 150",
+                  "product_specifications": {
+                    "material": "Cotton, Wool",
+                    "features": "Fashion-forward designs"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Uniqlo",
+                  "id": 213,
+                  "img": "images/product_3.png",
+                  "product_description": "Affordable brand offering quality basics and essentials.",
+                  "price": "15 - 80",
+                  "product_specifications": {
+                    "material": "Cotton, Synthetic",
+                    "features": "Basic and functional clothing"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Forever 21",
+                  "id": 214,
+                  "img": "images/product-07.jpg",
+                  "product_description": "Trendy and affordable fashion for a youthful audience.",
+                  "price": "25 - 90",
+                  "product_specifications": {
+                    "material": "Polyester, Cotton",
+                    "features": "Fashionable trends"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Old Navy",
+                  "id": 215,
+                  "img": "images/product-06.jpg",
+                  "product_description": "Budget-friendly brand offering casual and stylish wear.",
+                  "price": "20 - 75",
+                  "product_specifications": {
+                    "material": "Cotton, Denim",
+                    "features": "Casual and practical designs"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Gap",
+                  "id": 216,
+                  "img": "images/product_1.png",
+                  "product_description": "Classic brand offering quality basics at reasonable prices.",
+                  "price": "30 - 120",
+                  "product_specifications": {
+                    "material": "Cotton, Spandex",
+                    "features": "Timeless styles"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "American Eagle",
+                  "id": 217,
+                  "img": "images/product-04.jpg",
+                  "product_description": "Brand known for its casual and comfortable clothing.",
+                  "price": "25 - 100",
+                  "product_specifications": {
+                    "material": "Cotton, Denim",
+                    "features": "Relaxed fit"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "PacSun",
+                  "id": 218,
+                  "img": "images/product_5.png",
+                  "product_description": "Trendy brand with a focus on casual and surf-inspired clothing.",
+                  "price": "30 - 120",
+                  "product_specifications": {
+                    "material": "Cotton, Polyester",
+                    "features": "Casual and laid-back styles"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Bershka",
+                  "id": 219,
+                  "img": "images/product_2.png",
+                  "product_description": "Fashionable brand with trendy and youthful designs.",
+                  "price": "25 - 100",
+                  "product_specifications": {
+                    "material": "Cotton, Polyester",
+                    "features": "Modern trends"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                },
+                {
+                  "name": "Mango",
+                  "id": 220,
+                  "img": "images/product-03.jpg",
+                  "product_description": "Stylish and affordable fashion for everyday wear.",
+                  "price": "30 - 120",
+                  "product_specifications": {
+                    "material": "Cotton, Wool",
+                    "features": "Elegant and casual designs"
+                  },
+                  "color_options": [
+                    "Various"
+                  ],
+                  "add_to_cart": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "a04b"
+    }
+  ],
+  "add_to_cart": [
+    {
+      "id": "113",
+      "name": "Beach Sandals",
+      "img": "images/product_1.png",
+      "product_description": "Comfortable sandals perfect for beach wear.",
+      "price": "19.99",
+      "product_specifications": {
+        "material": "Rubber",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "care_instructions": "Wipe clean"
+      },
+      "color_options": [
+        "Yellow",
+        "Red",
+        "Blue"
+      ],
+      "add_to_cart": false
+    },
+    {
+      "id": "111",
+      "name": "Spring Floral Dress",
+      "img": "images/product-04.jpg",
+      "product_description": "A light and airy floral dress perfect for spring outings.",
+      "price": "49.99",
+      "product_specifications": {
+        "material": "100% Cotton",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "care_instructions": "Machine wash cold, tumble dry low"
+      },
+      "color_options": [
+        "White",
+        "Pink",
+        "Yellow"
+      ],
+      "add_to_cart": false
+    }
+  ]
+}
